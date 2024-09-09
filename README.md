@@ -23,10 +23,10 @@
 
 # VIDEO/HÌNH ẢNH VỀ UI THỰC TẾ
 Video: https://drive.google.com/file/d/1M-m5deqUECQrKCXi5ekiRc2SnWtNgQZg/view?usp=sharing
-| ![1](https://github.com/user-attachments/assets/7156fd2c-5a31-48f0-be46-ee9c9169001a) |  ![2](https://github.com/user-attachments/assets/1a14526c-c99f-40f8-9cdc-e57dc39ce8ae) | ![3](https://github.com/user-attachments/assets/08422f38-5f7f-4bf4-86d6-a7ed5ea675b4) | ![4](https://github.com/user-attachments/assets/10bab938-d090-4899-a3b3-a1bcdce2a7ae) |
+| ![1](https://github.com/user-attachments/assets/48fa775d-c8be-41d3-8711-3166e7135c93) |  ![2](https://github.com/user-attachments/assets/6f176fe3-a8be-4312-9ceb-0a4addfba4fc) | ![3](https://github.com/user-attachments/assets/d29d5813-4688-4326-a99a-0b3a65ff6ff8) | ![4](https://github.com/user-attachments/assets/25a3c61a-e97d-45f9-af78-1bad75b284cc) |
 |----------------------------|----------------------------|----------------------------|----------------------------|
 
-| ![5](https://github.com/user-attachments/assets/00c34e9e-d8b8-4fe9-8358-395576c641b9) |
+| ![5](https://github.com/user-attachments/assets/5ef42eaa-0812-4123-8897-8a2a51c70f24) |
 |----------------------------------------------------------------------------------------------------------------|
 
 
