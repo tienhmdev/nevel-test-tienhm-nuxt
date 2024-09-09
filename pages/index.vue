@@ -225,22 +225,22 @@ const state = reactive({ isMenuOpen: false })
                                                         {{ item.description }}
                                                     </div>
                                                 </div>
-                                                <div class="flex gap-[20px]">
+                                                <div class="flex gap-[20px] w-full">
                                                     <div class="w-1/2 aspect-square">
-                                                        <img :src="item.images[0]" />
+                                                        <img class="size-full" :src="item.images[0]" />
                                                     </div>
                                                     <div class="w-1/2 aspect-square">
-                                                        <img :src="item.images[1]" />
+                                                        <img class="size-full" :src="item.images[1]" />
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="flex gap-[20px] flex-wrap w-1/2">
-                                                <div class="flex gap-[20px]">
+                                                <div class="flex gap-[20px] w-full">
                                                     <div class="w-1/2 aspect-square">
-                                                        <img :src="item.images[2]" />
+                                                        <img class="size-full" :src="item.images[2]" />
                                                     </div>
                                                     <div class="w-1/2 aspect-square">
-                                                        <img :src="item.images[3]" />
+                                                        <img class="size-full" :src="item.images[3]" />
                                                     </div>
                                                 </div>
                                                 <img :src="item.images[4]" class="w-full aspect-square overflow-hidden rounded-[20px]" />
